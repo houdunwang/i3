@@ -6,6 +6,8 @@
 
 ![](./assets/深度截图_选择区域_20201213174824-1607859137106.png)
 
+### 安装i3
+
 下面是常用LINUX发行版本安装
 
 **ubuntu**
@@ -20,7 +22,11 @@ sudo apt install i3
 sudo pacman -S i3
 ```
 
-## 快速安装
+### 配置文件
+
+ `~/.config/i3/config` 为i3的配置文件
+
+## 大叔配置
 
 向军老师已经将使用的[I3配置](https://github.com/houdunwang/i3)开源了，大家可以[CLONE](https://github.com/houdunwang/i3)下来直接使用，省时少力。
 
@@ -30,11 +36,7 @@ sudo pacman -S i3
 git clone https://github.com/houdunwang/i3.git ~/.config/i3
 ```
 
-## 配置文件
 
- `~/.config/i3/config` 为i3的配置文件，$mod为前缀键默认为window键
-
-下面是向军大叔定制的一些配置项
 
 ## 快捷键
 
