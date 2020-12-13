@@ -2,6 +2,8 @@
 
 [houdunren.com](https://www.houdunren.com) @ 向军大叔
 
+[toc]
+
 [I3](https://i3wm.org/docs/userguide.html#_default_keybindings) 是多容器管理器
 
 ![](./assets/深度截图_选择区域_20201213174824-1607859137106.png)
