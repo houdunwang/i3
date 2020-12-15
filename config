@@ -18,7 +18,7 @@ hide_edge_borders both
 exec --no-startup-id xset dpms 300
 
 # 按键重复
-exec --no-startup-id xset r rate 150 20
+exec --no-startup-id xset r rate 300 45
 
 # 壁纸
 exec variety
